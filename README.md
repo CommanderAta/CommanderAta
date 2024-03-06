@@ -24,6 +24,7 @@
 <!-- - 📫 How to reach me alternatively **mangimasood2000@gmail.com** -->
 
  ⚡ How would I describe me? 
+
  **"Master of keyboard shortcuts; I code faster than I think."**
 
 <h3 align="center">Connect with me:</h3>
