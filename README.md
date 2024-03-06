@@ -23,8 +23,8 @@
  📫 How to reach me **commanderata@gmail.com**
 <!-- - 📫 How to reach me alternatively **mangimasood2000@gmail.com** -->
 
- ⚡ Fun fact 
- **Me = Code, Cook & Play**
+ ⚡ How would I describe me? 
+ **"Master of keyboard shortcuts; I code faster than I think."**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
