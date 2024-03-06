@@ -14,16 +14,17 @@
 ### :man_technologist: About Me :
 
 
-- 🌱 Life Moto **Pasos Cortos, Vista Larga**
+ 🌱 Life Moto **Pasos Cortos, Vista Larga**
 
-- 👨‍💻 All of my projects are available at [https://github.com/CommanderAta](https://github.com/CommanderAta)
+ 👨‍💻 All of my projects are available at [https://github.com/CommanderAta](https://github.com/CommanderAta)
 
 <!-- - 📝 Visit my portfolio website at [https://masoodahmad.dev/](https://masoodahmad.dev/) -->
 
-- 📫 How to reach me **commanderata@gmail.com**
+ 📫 How to reach me **commanderata@gmail.com**
 <!-- - 📫 How to reach me alternatively **mangimasood2000@gmail.com** -->
 
-- ⚡ Fun fact **Me = Code, Cook & Play**
+ ⚡ Fun fact 
+ **Me = Code, Cook & Play**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
