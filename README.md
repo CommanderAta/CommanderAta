@@ -1,10 +1,4 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  
-  <p> <img src="https://komarev.com/ghpvc/?username=masood-ahmed271&label=Profile%20views&color=0e75b6&style=flat" alt="masood-ahmed271" />
-<a href="mailto:masood20@connect.hku.hk"><img src="https://img.shields.io/badge/Email-Me-blueviolet" alt="Email"></a>
-</p>
-</div>
 
 
 <div align="center">
