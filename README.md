@@ -47,7 +47,7 @@
 ---
 
 ### :fire: My Stats :
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=masood-ahmed271" alt="masood-ahmed271" /></a> </p> -->
+<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=masood-ahmed271" alt="masood-ahmed271" /></a> </p> -->
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=commanderata&theme=dark&background=000000)](https://git.io/streak-stats)
 
